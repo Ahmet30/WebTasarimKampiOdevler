@@ -1,0 +1,118 @@
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\MyNotes.dll.config
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\MyNotes.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\MyNotes.pdb
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\csc.exe
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\csc.exe.config
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\csc.rsp
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\csi.exe
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\csi.exe.config
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\csi.rsp
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\vbc.exe
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\vbc.exe.config
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\vbc.rsp
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\System.Web.Helpers.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\System.Web.Mvc.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\System.Web.Razor.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\System.Web.Webpages.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\System.Web.Razor.xml
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\System.Web.Webpages.xml
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\System.Web.Helpers.xml
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\System.Web.Mvc.xml
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\obj\Debug\MyNotes.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\obj\Debug\MyNotes.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\obj\Debug\MyNotes.csproj.CopyComplete
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\obj\Debug\MyNotes.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\obj\Debug\MyNotes.pdb
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\System.Buffers.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\System.Memory.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Ahmet\source\repos\MyNotes\MyNotes\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\MyNotes.dll.config
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\MyNotes.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\MyNotes.pdb
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\csc.exe
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\csc.exe.config
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\csc.rsp
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\csi.exe
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\csi.exe.config
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\csi.rsp
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\System.Buffers.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\System.Memory.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\vbc.exe
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\vbc.exe.config
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\vbc.rsp
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\System.Web.Helpers.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\System.Web.Mvc.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\System.Web.Razor.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\System.Web.Webpages.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\System.Web.Razor.xml
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\System.Web.Webpages.xml
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\System.Web.Helpers.xml
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\bin\System.Web.Mvc.xml
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\obj\Debug\MyNotes.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\obj\Debug\MyNotes.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\obj\Debug\MyNotes.csproj.CopyComplete
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\obj\Debug\MyNotes.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\MyNotes\MyNotes\obj\Debug\MyNotes.pdb
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\Note_Odev\MyNotes\MyNotes\obj\Debug\MyNotes.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\Note_Odev\MyNotes\MyNotes\obj\Debug\MyNotes.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\Note_Odev\MyNotes\MyNotes\obj\Debug\MyNotes.dll
+C:\Users\Ahmet\Desktop\Web Tasari Kampi Odevler\Note_Odev\MyNotes\MyNotes\obj\Debug\MyNotes.pdb

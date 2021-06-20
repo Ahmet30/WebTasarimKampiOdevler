@@ -1,0 +1,2 @@
+Note uygulamasini calistirmak icin database baglanmasi lazim.
+Bundan dolayi sql dosyalari paylastim direkt olusturulabilir tablo ve prosedurler.
